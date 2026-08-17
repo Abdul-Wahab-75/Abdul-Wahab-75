@@ -1,5 +1,5 @@
 <div align="center">
-
+![AI/ML Banner](https://raw.githubusercontent.com/Abdul-Wahab-75/Abdul-Wahab-75/main/ml-neural-banner-dark.svg)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0F52BA&height=220&section=header&text=Mohammed%20Abdul%20Wahab&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0F52BA&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Building+Deep+Learning+Models;Plant+Disease+Classification+%7C+Computer+Vision;Turning+Data+Into+Intelligent+Systems" alt="Typing SVG" />
