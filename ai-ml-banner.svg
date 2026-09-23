@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="240" viewBox="0 0 1400 240" role="img" aria-labelledby="t d">
+<title id="t">AI and Machine Learning</title><desc id="d">Professional section banner for machine learning, deep learning, computer vision and NLP.</desc>
+<defs>
+<linearGradient id="b" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#06101F"/><stop offset=".55" stop-color="#0A1D38"/><stop offset="1" stop-color="#06101F"/></linearGradient>
+<linearGradient id="a" x1="0" x2="1"><stop stop-color="#2563EB"/><stop offset=".55" stop-color="#38BDF8"/><stop offset="1" stop-color="#22D3A7"/></linearGradient>
+</defs>
+<rect width="1400" height="240" rx="20" fill="url(#b)"/><rect x="1" y="1" width="1398" height="238" rx="19" fill="none" stroke="#2563EB" stroke-opacity=".65"/>
+<g fill="none" stroke="#38BDF8" stroke-opacity=".32" stroke-width="2">
+<path d="M980 45L1080 100L1190 55L1300 125L1380 75"/><path d="M980 45L1045 180L1190 55L1250 190L1380 75"/><path d="M1045 180L1140 210L1250 190L1380 210"/>
+</g>
+<g fill="#38BDF8"><circle cx="980" cy="45" r="5"/><circle cx="1080" cy="100" r="5"/><circle cx="1190" cy="55" r="6"/><circle cx="1300" cy="125" r="5"/><circle cx="1380" cy="75" r="5"/><circle cx="1045" cy="180" r="5"/><circle cx="1250" cy="190" r="5"/></g>
+<text x="70" y="92" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="38" font-weight="800" fill="#F8FAFC">AI / MACHINE LEARNING</text>
+<rect x="72" y="111" width="440" height="3" fill="url(#a)"/>
+<text x="72" y="151" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" fill="#CBD5E1">Machine Learning · Deep Learning · Computer Vision · NLP</text>
+<text x="72" y="184" font-family="monospace" font-size="15" fill="#5EEAD4">models → evaluation → deployment</text>
+</svg>

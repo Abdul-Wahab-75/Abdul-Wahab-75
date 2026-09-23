@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="240" viewBox="0 0 1400 240" role="img" aria-labelledby="t d">
+<title id="t">AI Powered SOC Analyst Platform</title><desc id="d">Professional cybersecurity banner combining AI, threat detection, log analysis and security operations.</desc>
+<defs>
+<linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050B18"/><stop offset=".6" stop-color="#101B32"/><stop offset="1" stop-color="#071A1B"/></linearGradient>
+<linearGradient id="a" x1="0" x2="1"><stop stop-color="#2563EB"/><stop offset=".55" stop-color="#38BDF8"/><stop offset="1" stop-color="#22D3A7"/></linearGradient>
+</defs>
+<rect width="1400" height="240" rx="20" fill="url(#b)"/><rect x="1" y="1" width="1398" height="238" rx="19" fill="none" stroke="#1D4ED8" stroke-opacity=".65"/>
+<g transform="translate(1040 45)">
+<path d="M90 0L170 30V95C170 142 137 173 90 192C43 173 10 142 10 95V30Z" fill="#071426" stroke="#38BDF8" stroke-width="3"/>
+<path d="M90 39L128 54V91C128 114 112 130 90 141C68 130 52 114 52 91V54Z" fill="#0B2842" stroke="#22D3A7" stroke-width="2"/>
+<path d="M90 65V105M70 85H110" stroke="#7DD3FC" stroke-width="7" stroke-linecap="round"/>
+</g>
+<g opacity=".45" stroke="#38BDF8" fill="none">
+<path d="M880 55L965 115L900 175"/><path d="M780 55L695 115L760 175"/>
+</g>
+<text x="70" y="88" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="37" font-weight="800" fill="#F8FAFC">AI-POWERED SOC ANALYST</text>
+<rect x="72" y="108" width="520" height="3" fill="url(#a)"/>
+<text x="72" y="147" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" fill="#CBD5E1">Threat Detection · Log Analysis · Alert Investigation</text>
+<text x="72" y="180" font-family="monospace" font-size="15" fill="#5EEAD4">security events → intelligence → analyst workflow</text>
+</svg>

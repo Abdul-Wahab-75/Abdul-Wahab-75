@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="180" viewBox="0 0 1600 180" role="img" aria-labelledby="t d">
+<title id="t">Building Intelligent Systems</title><desc id="d">Professional GitHub footer banner.</desc>
+<defs>
+<linearGradient id="b" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#050B18"/><stop offset=".5" stop-color="#0A1830"/><stop offset="1" stop-color="#050B18"/></linearGradient>
+<linearGradient id="a" x1="0" x2="1"><stop stop-color="#2563EB"/><stop offset=".5" stop-color="#38BDF8"/><stop offset="1" stop-color="#22D3A7"/></linearGradient>
+</defs>
+<rect width="1600" height="180" rx="20" fill="url(#b)"/><rect x="1" y="1" width="1598" height="178" rx="19" fill="none" stroke="#1D4ED8" stroke-opacity=".6"/>
+<path d="M0 148C240 95 390 178 650 130S1110 95 1600 148" fill="none" stroke="url(#a)" stroke-width="2"/>
+<text x="800" y="76" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30" font-weight="800" fill="#F8FAFC">BUILDING INTELLIGENT SYSTEMS.</text>
+<text x="800" y="111" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" fill="#7DD3FC">ENGINEERING PRACTICAL SOLUTIONS.</text>
+<rect x="715" y="132" width="170" height="3" rx="2" fill="url(#a)"/>
+</svg>
