@@ -246,12 +246,7 @@ AI Applications
 </table>
 
 ---
-
-<div align="center">
-
 ## `06` — LEARNING ROADMAP
-
-</div>
 
 ```text
 Python
@@ -277,11 +272,36 @@ AI Engineering
    │
    ▼
 Production & Deployment
+```
 
-<img src="./github-hero.svg" width="100%" alt="Mohammed Abdul Wahab">
+<br>
+
+<div align="center">
+
+<img src="./github-hero.svg" width="100%" alt="Mohammed Abdul Wahab — AI ML Software Engineer">
+
+</div>
+
+<br>
+
+<div align="center">
 
 <img src="./ai-ml-banner.svg" width="100%" alt="AI and Machine Learning">
 
-<img src="./soc-analyst-banner.svg" width="100%" alt="AI Powered SOC Analyst">
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="./soc-analyst-banner.svg" width="100%" alt="AI Powered SOC Analyst Platform">
+
+</div>
+
+<br>
+
+<div align="center">
 
 <img src="./github-footer.svg" width="100%" alt="Building Intelligent Systems">
+
+</div>
