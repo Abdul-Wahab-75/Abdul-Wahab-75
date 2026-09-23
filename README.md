@@ -277,3 +277,11 @@ AI Engineering
    │
    ▼
 Production & Deployment
+
+<img src="./github-hero.svg" width="100%" alt="Mohammed Abdul Wahab">
+
+<img src="./ai-ml-banner.svg" width="100%" alt="AI and Machine Learning">
+
+<img src="./soc-analyst-banner.svg" width="100%" alt="AI Powered SOC Analyst">
+
+<img src="./github-footer.svg" width="100%" alt="Building Intelligent Systems">
