@@ -1,12 +1,4 @@
 <div align="center">
-
-# ⚡ MOHAMMED ABDUL WAHAB
-
-### AI/ML Engineer · Software Engineer · Full-Stack Developer
-
-**Building intelligent systems, machine learning applications, and modern web experiences.**
-
-<br>
 <br>
 
 <div align="center">
@@ -289,22 +281,6 @@ AI Engineering
    ▼
 Production & Deployment
 ```
-
-<br>
-
-<div align="center">
-
-<img src="./github-hero.svg" width="100%" alt="Mohammed Abdul Wahab — AI ML Software Engineer">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="./ai-ml-banner.svg" width="100%" alt="AI and Machine Learning">
-
-</div>
 
 <br>
 
