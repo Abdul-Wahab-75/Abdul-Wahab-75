@@ -28,7 +28,7 @@ Building intelligent systems, machine learning applications, and modern web expe
 
 ## About
 
-I'm a Computer Science Engineering student focused on **Artificial Intelligence, Machine Learning, Computer Vision, and Software Engineering**.
+I'm a Computer Science Engineering student focused on **Artificial Intelligence, Machine Learning, and Software Engineering**.
 
 I enjoy turning ideas into working products — from training machine learning models and building computer-vision applications to developing full-stack web applications.
 
@@ -46,7 +46,6 @@ Currently focused on strengthening my engineering fundamentals, building real-wo
 
 - Machine Learning
 - Deep Learning
-- Computer Vision
 - Image Classification
 - Model Development
 - Data Analysis
@@ -88,15 +87,14 @@ A machine learning project that analyzes plant leaf images and classifies potent
 
 ---
 
-### 02 — AI-Powered Mental Health Chatbot
+### 02 — AI-Powered Soc Analyst platform 
 
-**Artificial Intelligence • NLP • React Native • Python**
-
-An AI-powered application designed to analyze user conversations, identify emotional context, and provide supportive responses and coping strategies.
+**Artificial Intelligence • LLM • React Native • Python**
+An Intelligent Security Operation Centre (soc) that leverages Artificial Intelligence to detect, analyze and respond to cybersecurity threats in real time.
 
 **Tech Stack**
 
-`Python` `NLP` `Transformers` `React Native` `Firebase` `API Integration`
+`Python` `NLP` `LLM` `React Native` `Rag` `API Integration`
 
 > Major project currently under development.
 
