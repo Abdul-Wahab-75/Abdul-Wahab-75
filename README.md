@@ -1,66 +1,70 @@
 <div align="center">
 
-# Mohammed Abdul Wahab
+# ⚡ MOHAMMED ABDUL WAHAB
 
-### AI/ML Engineer • Software Engineer • Full-Stack Developer
+### AI/ML Engineer · Software Engineer · Full-Stack Developer
 
-Building intelligent systems, machine learning applications, and modern web experiences.
+**Building intelligent systems, machine learning applications, and modern web experiences.**
 
-<br/>
+<br>
 
-<a href="https://github.com/Abdul-Wahab-75">
-  <img src="https://komarev.com/ghpvc/?username=Abdul-Wahab-75&style=flat-square&color=0F52BA&label=PROFILE+VIEWS" />
-</a>
-<a href="https://github.com/Abdul-Wahab-75?tab=followers">
-  <img src="https://img.shields.io/github/followers/Abdul-Wahab-75?style=flat-square&color=0F52BA&label=FOLLOWERS" />
-</a>
-<a href="https://www.linkedin.com/in/mohammed-abdul-wahab07">
-  <img src="https://img.shields.io/badge/LINKEDIN-0F52BA?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Abdul-Wahab-75/Abdul-Wahab-75/main/ml-neural-banner-dark.svg" width="90%" alt="AI ML Banner"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=Abdul-Wahab-75&style=for-the-badge&color=0F52BA&label=PROFILE+VIEWS)](https://github.com/Abdul-Wahab-75)
+[![Followers](https://img.shields.io/github/followers/Abdul-Wahab-75?style=for-the-badge&color=0F52BA&label=FOLLOWERS)](https://github.com/Abdul-Wahab-75?tab=followers)
+[![GitHub](https://img.shields.io/badge/GITHUB-0F52BA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdul-Wahab-75)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0F52BA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-abdul-wahab07)
 
 </div>
 
 ---
 
-## About
+<div align="center">
 
-I'm a Computer Science Engineering student focused on **Artificial Intelligence, Machine Learning, and Software Engineering**.
+## `01` — ABOUT ME
 
-I enjoy turning ideas into working products — from training machine learning models and building computer-vision applications to developing full-stack web applications.
+</div>
+
+I'm a **Computer Science Engineering student** focused on:
+
+`Artificial Intelligence` · `Machine Learning` · `Computer Vision` · `Software Engineering`
+
+I enjoy turning ideas into practical products — from developing machine learning models and computer-vision applications to building full-stack web applications.
 
 Currently focused on strengthening my engineering fundamentals, building real-world projects, and preparing for **AI/ML and Software Engineering internships**.
 
 ---
 
-## What I Build
+<div align="center">
+
+## `02` — WHAT I BUILD
+
+</div>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Artificial Intelligence
+### 🤖 ARTIFICIAL INTELLIGENCE
 
 - Machine Learning
 - Deep Learning
+- Computer Vision
 - Image Classification
-- Model Development
+- Natural Language Processing
 - Data Analysis
+- AI-powered Applications
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### Software Engineering
+### 💻 SOFTWARE ENGINEERING
 
-- Full-Stack Web Applications
+- Full-Stack Applications
 - REST APIs
 - Frontend Development
 - Backend Development
 - Database Integration
+- Application Architecture
 - Deployment
 
 </td>
@@ -69,95 +73,207 @@ Currently focused on strengthening my engineering fundamentals, building real-wo
 
 ---
 
-## Featured Projects
+<div align="center">
 
-### 01 — Plant Disease Classification
+## `03` — FEATURED PROJECTS
 
-**Computer Vision • Deep Learning • Python**
+</div>
 
-A machine learning project that analyzes plant leaf images and classifies potential plant diseases.
+### 🌿 Plant Disease Classification
 
-**Tech Stack**
+**Computer Vision · Deep Learning · Python**
 
-`Python` `TensorFlow` `PyTorch` `OpenCV` `NumPy` `Pandas` `Jupyter`
+A deep learning application that analyzes plant leaf images and classifies potential plant diseases.
 
-<a href="https://github.com/Abdul-Wahab-75/Plant-Disease-Classification">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-0F52BA?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**Technology Stack**
 
----
+![Python](https://img.shields.io/badge/Python-0F52BA?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0F52BA?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-0F52BA?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-0F52BA?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0F52BA?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-0F52BA?style=flat-square&logo=pandas&logoColor=white)
 
-### 02 — AI-Powered Soc Analyst platform 
+<br>
 
-**Artificial Intelligence • LLM • React Native • Python**
-An Intelligent Security Operation Centre (soc) that leverages Artificial Intelligence to detect, analyze and respond to cybersecurity threats in real time.
-
-**Tech Stack**
-
-`Python` `NLP` `LLM` `React Native` `Rag` `API Integration`
-
-> Major project currently under development.
+[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-0F52BA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdul-Wahab-75/Plant-Disease-Classification)
 
 ---
 
-### 03 — Full-Stack Web Applications
+### 🛡️ AI-Powered SOC Analyst Platform
 
-**Frontend • Backend • APIs**
+**Artificial Intelligence · Cybersecurity · Machine Learning**
 
-Building responsive web applications with modern frontend interfaces, backend services, API integration, and database functionality.
+An AI-powered Security Operations Center platform designed to assist security analysts with:
 
-**Focus**
+- Threat detection
+- Log analysis
+- Alert investigation
+- Security-event analysis
+- AI-assisted security workflows
 
-`HTML` `CSS` `JavaScript` `React` `Node.js` `Express` `REST APIs`
+The goal is to use AI to reduce repetitive SOC tasks and help analysts investigate potential security threats more efficiently.
+
+**Technology Stack**
+
+![Python](https://img.shields.io/badge/Python-0F52BA?style=flat-square&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0F52BA?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-0F52BA?style=flat-square)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0F52BA?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_APIs-0F52BA?style=flat-square)
+![React](https://img.shields.io/badge/React-0F52BA?style=flat-square&logo=react&logoColor=white)
+
+**Status:** `UNDER DEVELOPMENT`
 
 ---
 
-## Technical Skills
+### 🌐 Full-Stack Web Applications
 
-### Languages
+**Frontend · Backend · APIs**
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
-</p>
+Building responsive web applications with modern interfaces, backend services, API integration, and database functionality.
+
+**Technology Stack**
+
+![HTML](https://img.shields.io/badge/HTML5-0F52BA?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-0F52BA?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F52BA?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-0F52BA?style=flat-square&logo=react&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-0F52BA?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-0F52BA?style=flat-square&logo=express&logoColor=white)
+
+---
+
+<div align="center">
+
+## `04` — TECHNICAL SKILLS
+
+</div>
+
+### Programming Languages
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/PYTHON-0F52BA?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0F52BA?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0F52BA?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0F52BA?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
 
 ### AI / Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
+<div align="center">
 
-`NumPy` • `Pandas` • `Jupyter` • `Scikit-learn`
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-0F52BA?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PYTORCH-0F52BA?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OPENCV-0F52BA?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-0F52BA?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-0F52BA?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/JUPYTER-0F52BA?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
 
 ### Web Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
-</p>
+<div align="center">
 
-### Tools & Technologies
+![React](https://img.shields.io/badge/REACT-0F52BA?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/NODE.JS-0F52BA?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/EXPRESS-0F52BA?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0F52BA?style=for-the-badge)
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,firebase" />
-</p>
+</div>
+
+### Developer Tools
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/GIT-0F52BA?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-0F52BA?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-0F52BA?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-0F52BA?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Firebase](https://img.shields.io/badge/FIREBASE-0F52BA?style=for-the-badge&logo=firebase&logoColor=white)
+
+</div>
 
 ---
 
-## Currently Working On
+<div align="center">
+
+## `05` — CURRENT FOCUS
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🤖 AI / ML
+
+Machine Learning  
+Deep Learning  
+Computer Vision  
+NLP  
+Model Development
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚙️ ENGINEERING
+
+Data Structures  
+Algorithms  
+OOP  
+Clean Code  
+Software Design
+
+</td>
+
+<td width="33%" align="center">
+
+### 🌐 DEVELOPMENT
+
+Full-Stack  
+REST APIs  
+Databases  
+Deployment  
+AI Applications
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `06` — LEARNING ROADMAP
+
+</div>
 
 ```text
-AI / ML
-├── Machine Learning
-├── Deep Learning
-├── Computer Vision
-└── NLP
-
-Software Engineering
-├── Data Structures & Algorithms
-├── Backend Development
-├── REST APIs
-└── System Design Fundamentals
-
-Development
-├── Full-Stack Applications
-├── AI-Powered Applications
-└── Model Deployment
+Python
+   │
+   ▼
+Data Structures & Algorithms
+   │
+   ▼
+Data Science & Statistics
+   │
+   ▼
+Machine Learning
+   │
+   ▼
+Deep Learning
+   │
+   ├──────────────► Computer Vision
+   │
+   ├──────────────► NLP
+   │
+   ▼
+AI Engineering
+   │
+   ▼
+Production & Deployment
