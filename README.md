@@ -7,6 +7,22 @@
 **Building intelligent systems, machine learning applications, and modern web experiences.**
 
 <br>
+<br>
+
+<div align="center">
+
+<img src="./github-hero.svg" width="100%" alt="Mohammed Abdul Wahab — AI ML Software Engineer">
+
+</div>
+
+<br>
+<div align="center">
+
+<img src="./ai-ml-banner.svg" width="100%" alt="AI and Machine Learning">
+
+</div>
+
+<br>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Abdul-Wahab-75&style=for-the-badge&color=0F52BA&label=PROFILE+VIEWS)](https://github.com/Abdul-Wahab-75)
 [![Followers](https://img.shields.io/github/followers/Abdul-Wahab-75?style=for-the-badge&color=0F52BA&label=FOLLOWERS)](https://github.com/Abdul-Wahab-75?tab=followers)
