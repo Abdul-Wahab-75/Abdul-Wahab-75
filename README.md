@@ -1,57 +1,165 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F52BA&height=220&section=header&text=Mohammed%20Abdul%20Wahab&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20%7C%20Software%20Engineering&descAlignY=55&descSize=18" width="100%"/>
+# Mohammed Abdul Wahab
 
-<img src="https://raw.githubusercontent.com/Abdul-Wahab-75/Abdul-Wahab-75/main/ml-neural-banner-dark.svg" width="100%" alt="AI/ML Banner"/>
+### AI/ML Engineer • Software Engineer • Full-Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0F52BA&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer;Software+Engineering+Enthusiast;Building+Machine+Learning+Models;Full-Stack+Web+Developer;Computer+Vision+%7C+Deep+Learning;Turning+Ideas+Into+Intelligent+Systems" alt="Typing SVG"/>
+Building intelligent systems, machine learning applications, and modern web experiences.
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Abdul-Wahab-75&color=0F52BA&style=flat" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Abdul-Wahab-75?label=Followers&style=flat&color=0F52BA" alt="Followers"/>
+<a href="https://github.com/Abdul-Wahab-75">
+  <img src="https://komarev.com/ghpvc/?username=Abdul-Wahab-75&style=flat-square&color=0F52BA&label=PROFILE+VIEWS" />
+</a>
+<a href="https://github.com/Abdul-Wahab-75?tab=followers">
+  <img src="https://img.shields.io/github/followers/Abdul-Wahab-75?style=flat-square&color=0F52BA&label=FOLLOWERS" />
+</a>
+<a href="https://www.linkedin.com/in/mohammed-abdul-wahab07">
+  <img src="https://img.shields.io/badge/LINKEDIN-0F52BA?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Abdul-Wahab-75/Abdul-Wahab-75/main/ml-neural-banner-dark.svg" width="90%" alt="AI ML Banner"/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About
 
-```python
-AbdulWahab = {
-    "name": "Mohammed Abdul Wahab",
-    "focus": [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Computer Vision",
-        "Software Engineering",
-        "Full-Stack Web Development"
-    ],
-    "languages": [
-        "Python",
-        "JavaScript",
-        "HTML",
-        "CSS"
-    ],
-    "ai_ml": [
-        "TensorFlow",
-        "PyTorch",
-        "OpenCV",
-        "Pandas",
-        "NumPy"
-    ],
-    "tools": [
-        "Git",
-        "GitHub",
-        "Docker",
-        "VS Code",
-        "Jupyter"
-    ],
-    "currently": "Building projects and improving my software engineering skills",
-    "open_to": [
-        "Internships",
-        "AI/ML Projects",
-        "Software Engineering Projects",
-        "Collaborations"
-    ]
-}
+I'm a Computer Science Engineering student focused on **Artificial Intelligence, Machine Learning, Computer Vision, and Software Engineering**.
+
+I enjoy turning ideas into working products — from training machine learning models and building computer-vision applications to developing full-stack web applications.
+
+Currently focused on strengthening my engineering fundamentals, building real-world projects, and preparing for **AI/ML and Software Engineering internships**.
+
+---
+
+## What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### Artificial Intelligence
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Image Classification
+- Model Development
+- Data Analysis
+
+</td>
+
+<td width="50%">
+
+### Software Engineering
+
+- Full-Stack Web Applications
+- REST APIs
+- Frontend Development
+- Backend Development
+- Database Integration
+- Deployment
+
+</td>
+</tr>
+</table>
+
+---
+
+## Featured Projects
+
+### 01 — Plant Disease Classification
+
+**Computer Vision • Deep Learning • Python**
+
+A machine learning project that analyzes plant leaf images and classifies potential plant diseases.
+
+**Tech Stack**
+
+`Python` `TensorFlow` `PyTorch` `OpenCV` `NumPy` `Pandas` `Jupyter`
+
+<a href="https://github.com/Abdul-Wahab-75/Plant-Disease-Classification">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-0F52BA?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+### 02 — AI-Powered Mental Health Chatbot
+
+**Artificial Intelligence • NLP • React Native • Python**
+
+An AI-powered application designed to analyze user conversations, identify emotional context, and provide supportive responses and coping strategies.
+
+**Tech Stack**
+
+`Python` `NLP` `Transformers` `React Native` `Firebase` `API Integration`
+
+> Major project currently under development.
+
+---
+
+### 03 — Full-Stack Web Applications
+
+**Frontend • Backend • APIs**
+
+Building responsive web applications with modern frontend interfaces, backend services, API integration, and database functionality.
+
+**Focus**
+
+`HTML` `CSS` `JavaScript` `React` `Node.js` `Express` `REST APIs`
+
+---
+
+## Technical Skills
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+`NumPy` • `Pandas` • `Jupyter` • `Scikit-learn`
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,firebase" />
+</p>
+
+---
+
+## Currently Working On
+
+```text
+AI / ML
+├── Machine Learning
+├── Deep Learning
+├── Computer Vision
+└── NLP
+
+Software Engineering
+├── Data Structures & Algorithms
+├── Backend Development
+├── REST APIs
+└── System Design Fundamentals
+
+Development
+├── Full-Stack Applications
+├── AI-Powered Applications
+└── Model Deployment
